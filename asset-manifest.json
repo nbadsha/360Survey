@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/360survey/static/css/main.cc319cec.chunk.css",
+    "main.js": "/360survey/static/js/main.84c2b87f.chunk.js",
+    "main.js.map": "/360survey/static/js/main.84c2b87f.chunk.js.map",
+    "runtime-main.js": "/360survey/static/js/runtime-main.49265ddb.js",
+    "runtime-main.js.map": "/360survey/static/js/runtime-main.49265ddb.js.map",
+    "static/js/2.acc4ca7f.chunk.js": "/360survey/static/js/2.acc4ca7f.chunk.js",
+    "static/js/2.acc4ca7f.chunk.js.map": "/360survey/static/js/2.acc4ca7f.chunk.js.map",
+    "static/js/3.c04177c6.chunk.js": "/360survey/static/js/3.c04177c6.chunk.js",
+    "static/js/3.c04177c6.chunk.js.map": "/360survey/static/js/3.c04177c6.chunk.js.map",
+    "index.html": "/360survey/index.html",
+    "static/css/main.cc319cec.chunk.css.map": "/360survey/static/css/main.cc319cec.chunk.css.map",
+    "static/js/2.acc4ca7f.chunk.js.LICENSE.txt": "/360survey/static/js/2.acc4ca7f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/360survey/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49265ddb.js",
+    "static/js/2.acc4ca7f.chunk.js",
+    "static/css/main.cc319cec.chunk.css",
+    "static/js/main.84c2b87f.chunk.js"
+  ]
+}
